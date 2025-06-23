@@ -1,0 +1,1 @@
+help = open("0022_names.txt","r")
